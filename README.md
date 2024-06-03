@@ -18,3 +18,10 @@ This weather app allows users to:<br />
 -> Ensure you have an API key from OpenWeatherMap (https://openweathermap.org/).<br />
 -> Update the apiKey variable in the script.js file with your API key.<br />
 -> Open the index.html file in your web browser.<br />
+
+
+
+**Images**
+
+<img src="https://github.com/riya-malviya/weather-ml/assets/171536835/557841c9-24b2-428a-a3de-873e28d5f41b" width="350" height="324"><br/><br/>
+<img src="https://github.com/riya-malviya/weather-ml/assets/171536835/5273da04-0808-4780-8199-5ec1e5656f1a" width="324" height="324">
