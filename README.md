@@ -16,7 +16,7 @@ This weather app allows users to:<br />
 
 **Running the App**<br />
 -> Ensure you have an API key from OpenWeatherMap (https://openweathermap.org/).<br />
--> Update the apiKey variable in the script.js file with your API key.<br />
+-> Update the apiKey variable in the script(js) file component in index.html file with your API key.<br />
 -> Open the index.html file in your web browser.<br />
 
 
